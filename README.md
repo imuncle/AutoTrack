@@ -2,7 +2,11 @@
 
 2018年参加广东省电子设计大赛时的作品，当时拿了省一等奖。作品效果如下：
 
-![gif]()
+![gif](images/show.gif)
+
+软件界面如下：
+
+![Screenshot](images/Screenshot.png)
 
 作品分为软件部分（Android application）和硬件部分（arduino），两者通过蓝牙连接。硬件部分很简单，只是简单地接收蓝牙数据然后控制舵机转向，运用到了一点点PID算法。
 
